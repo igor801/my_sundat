@@ -6,6 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.println("is not 3th commit");
+        System.out.println("izmenenie");
 
     }
 }
